@@ -1,6 +1,6 @@
-# Rodrigo Garcia - Desenvolvedor Mobile - iOS (Swift)
+### Rodrigo Garcia - Desenvolvedor Mobile - iOS (Swift)
 
-# Principais Habilidades
+### Principais Habilidades
 
 * Arquitetura MVC e MVVM
 * Consumo de Api RESTfull
